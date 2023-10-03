@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonmuse
 - 👀 I’m interested in learning and creating!
-- 🌱 I’m currently learning how to create a virtual online network, where users can interact
+- 🌱 I’m currently learning how to create a virtual online network, where users can interact with each other.
 - 💞️ I’m looking to collaborate on fun projects that can help me learn more!
 - 📫 How to reach me: jasonwmuse@gmail.com
 
