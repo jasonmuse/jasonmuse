@@ -1,17 +1,29 @@
-# Hello, I'm Jason Muse 👋
+# 👋 Hey, I'm Jason Muse
 
-Welcome to my GitHub profile! I'm an enthusiastic learner and a creator at heart, always seeking to innovate and bring creative visions to life. My passion lies in design and development, particularly in crafting engaging and immersive experiences that ignite excitement and inspiration in users.
+Welcome to my GitHub!
 
-## 🌱 Learning and Innovation Journey
+I'm into making things that feel good to use — games, apps, music tools, weird creative projects — anything that brings ideas to life in a fun or meaningful way.
 
-My current adventure involves mastering the craft of application development, with a keen focus on creating unique experiences, and bringing vibrant and interactive virtual worlds to life. I am driven by a desire to innovate, infusing my projects with fresh ideas and imaginative concepts that inspire and captivate users.
+---
 
-## 💼 Collaboration for Creative Excellence
+## 🎯 What I'm Working On
+Lately, I've been focused on:
+- Building games with **Unity** and **Godot**
+- Making music and sound tools in my free time
+- Learning more about AI and creative tech
+- Designing websites and interactive projects
 
-I am actively seeking opportunities to collaborate on exciting projects that align with my passion for creativity and application development. I thrive in collaborative environments where creativity flourishes and groundbreaking ideas are welcomed and encouraged. I'd love to grow my network and work with others and bring our dreams to life!
+Most of what I make mixes code with creativity. I like when stuff has personality.
 
-## 📫 Let's Connect and Innovate
+---
 
-If you share a passion for innovation and are working on a project that's pushing boundaries and garnering excitement, I'd love to connect and explore potential collaborations. Reach out to me at [jasonwmuse@gmail.com](mailto:jasonwmuse@gmail.com), and let's embark on an inspiring journey of creativity and inspiration.
+## 🤝 Let’s Team Up
+If you’re working on something cool — especially in games, music, or creative tools — hit me up. I’m always down to collaborate or just chat ideas.
 
-Thank you for stopping by my GitHub profile! Let's craft a virtual world of endless possibilities and inspire the world together. ✨
+---
+
+## 📬 Contact
+📧 **jasonwmuse@gmail.com**  
+🌐 [Portfolio](https://jasonmuse.github.io/) • [Games](https://amused.itch.io/) • [Music](https://jasonmuse.github.io/muse-jukebox/)
+
+Thanks for checking this out!
